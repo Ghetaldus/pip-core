@@ -1,0 +1,1 @@
+<div id="menu">Copyright & Imprint | blabla</div>

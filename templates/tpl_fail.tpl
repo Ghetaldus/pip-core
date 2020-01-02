@@ -1,0 +1,1 @@
+<p class="fail">Um auf diese Seite zugreifen zu k&ouml;nnen, m&uuml;ssen Sie sich <a href="index.php?action=login">einloggen</a>.</p>
