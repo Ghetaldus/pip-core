@@ -6,9 +6,9 @@
 	
 	/* -- Database Definitions -- */
 	define('CONF_DB_HOST', 			'localhost'); 					// Database Host
-	define('CONF_DB_USER', 			'dbo700331249');				// Database User
-	define('CONF_DB_PASS', 			'nixzefix23'); 					// Database Password
-	define('CONF_DB_NAME', 			'db700331249'); 				// Database Name
+	define('CONF_DB_USER', 			'youruser');				// Database User
+	define('CONF_DB_PASS', 			'yourpassword'); 					// Database Password
+	define('CONF_DB_NAME', 			'yourdatabase'); 				// Database Name
 	define('CONF_DB_SOCKET', 		'');							// Database Socket /tmp/mysql5.sock
 	define('CONF_DB_PORT',			3306);							// Database Port
 	
@@ -31,8 +31,8 @@
 	define('CONF_TBL_GLOBALBUFF',		'globalbuff');					//
 	
 	/* -- Contact Definitions -- */
-	define('CONF_SYS_EMAIL',			'test@beispiel.de');			//
-	define('CONF_SYS_URL',				'critical-hit.biz');			//
+	define('CONF_SYS_EMAIL',			'test@yourdomain.com');			//
+	define('CONF_SYS_URL',				'yourdomain.com');			//
 	define('CONF_SYS_NOACTIVATE',		true);							//
 	define('CONF_SYS_TIMEZONE',			"Europe/Berlin");				//
 	define('CONF_SYS_SESSION_LIFETIME', 21600);
